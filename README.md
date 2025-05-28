@@ -1,4 +1,4 @@
-# Dynamic Manifold Evolution Theory (DMET)[arXiv](https://arxiv.org/abs/2505.20340) 
+# Dynamic Manifold Evolution Theory (DMET)[![arXiv](https://img.shields.io/badge/arXiv-2505.20340-b31b1b.svg)](https://arxiv.org/abs/2505.20340) 
 
 ![DMET Framework](docs/pictures/16.png)
 
